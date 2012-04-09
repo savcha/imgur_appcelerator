@@ -1,0 +1,5 @@
+IMGUR mobile application
+
+This application lets you snap a picture or select one from the gallery and displays it
+
+The original intent to post the image to Imgur is not possible because Appcelerator does not provide a way to convert the image to base64 on Android
